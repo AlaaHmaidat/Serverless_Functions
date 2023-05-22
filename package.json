@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "urllib": "^3.16.0",
+    "urllib3": "^0.0.1"
+  }
+}
